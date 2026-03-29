@@ -1,0 +1,10 @@
+# OWASP Repositories Configuration for Commit Fetcher
+# This file lists high-value OWASP repositories to monitor
+
+repositories:
+  - OWASP/ASVS
+  - OWASP/wstg  
+  - OWASP/CheatSheetSeries
+  - OWASP/owasp-masvs
+  - OWASP/owasp-mastg
+  - OWASP/owasp-api-security
